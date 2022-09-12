@@ -13,7 +13,6 @@
 
  <a href="https://www.linkedin.com/in/carlossoppranidurand/" target="blank">
 
-</p>
 
 
 - 👋 Hi, I’m Carlos Sopprani Durand
