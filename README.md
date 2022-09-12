@@ -21,8 +21,9 @@
 
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="48px" width="48px" />
 
-</p>>
+</p>
  
+<p align="center">
   
  
   
