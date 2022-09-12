@@ -17,9 +17,9 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jlferrete" height="48px" width="48px" />
 
  </a>
-  <a href="carlossoppranid@gmail.com" target="blank">
+  <a href="https://github.com/cxrlos99" target="blank">
 
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="jlferrete" height="48px" width="48px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="48px" width="48px" />
 
 </p>
 
