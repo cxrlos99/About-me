@@ -15,6 +15,7 @@
 
 </p>
 
+
 - 👋 Hi, I’m Carlos Sopprani Durand
 - 🇵🇪 I'm a peruvian recruiter who loves to eat and find amazing talented people
 - 🌱 I’m currently learning how to be a better recruiter and find IT profiles
