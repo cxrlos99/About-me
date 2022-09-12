@@ -16,7 +16,7 @@
 ?>
 <nav class="nav nav-share">
   <ul class="horizontal-list">
-       <li><a class="btn btn-linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?<?php echo htmlentities($shareLinkedin); ?>">Compartir en LinkedIn</a></li>
+       <li><a class="btn btn-linkedin" target="_blank" href="https://www.linkedin.com/in/carlossoppranidurand/?<?php echo htmlentities($shareLinkedin); ?>"></a></li>
    
 </nav>
 
