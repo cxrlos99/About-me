@@ -2,8 +2,23 @@
 
 <p align="center">
 
-	<a href="https://jlferrete.com"><img src="https://jlferrete.com/wp- content/uploads/2020/07/jlferrete-optimize.gif" alt="Jose Luis Ferrete has a lot of ideas"/></a>
+ <a href="https://jlferrete.com" target="blank">
 
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
+
+ <a href="https://twitter.com/jlferrete" target="blank">
+
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
+
+ <a href="https://twitter.com/jlferrete" target="blank">
+
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
 
 </p>
 
